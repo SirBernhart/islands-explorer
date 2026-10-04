@@ -1,5 +1,5 @@
 ## Islands Explorer
-This is a study project to better understand how to implement advanced 3D platformer mechanics and general character controller features
+This is a study project to better understand how to implement 3D platformer mechanics and general character controller features
 
 ### Features
 - Dash
